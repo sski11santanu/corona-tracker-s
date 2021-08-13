@@ -1,2 +1,2 @@
 # corona-tracker-ws
-# Corona Tracker [Web Scraping]
+# Corona Tracker [Scraping]
